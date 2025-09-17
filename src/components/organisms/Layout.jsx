@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
           onMenuClick={() => setIsMobileMenuOpen(true)}
         />
         
-        <main className="flex-1 relative overflow-y-auto focus:outline-none">
+<main className="flex-1 relative overflow-y-auto focus:outline-none lg:ml-64">
           <div className="py-6">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               {children}
