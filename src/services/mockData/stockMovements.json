@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "productId": 1,
+    "type": "IN",
+    "quantity": 50,
+    "reason": "Purchase Order",
+    "referenceId": "PO-001",
+    "timestamp": "2024-11-15T10:30:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 2,
+    "productId": 1,
+    "type": "OUT",
+    "quantity": 45,
+    "reason": "Sales Order",
+    "referenceId": "SO-001",
+    "timestamp": "2024-11-20T14:15:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 3,
+    "productId": 2,
+    "type": "IN",
+    "quantity": 75,
+    "reason": "Purchase Order",
+    "referenceId": "PO-002",
+    "timestamp": "2024-11-18T09:45:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 4,
+    "productId": 2,
+    "type": "OUT",
+    "quantity": 75,
+    "reason": "Sales Order",
+    "referenceId": "SO-002",
+    "timestamp": "2024-11-25T16:20:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 5,
+    "productId": 3,
+    "type": "IN",
+    "quantity": 100,
+    "reason": "Purchase Order",
+    "referenceId": "PO-003",
+    "timestamp": "2024-11-12T11:00:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 6,
+    "productId": 3,
+    "type": "OUT",
+    "quantity": 75,
+    "reason": "Sales Order",
+    "referenceId": "SO-003",
+    "timestamp": "2024-11-28T13:30:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 7,
+    "productId": 4,
+    "type": "IN",
+    "quantity": 30,
+    "reason": "Purchase Order",
+    "referenceId": "PO-004",
+    "timestamp": "2024-11-22T08:15:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 8,
+    "productId": 4,
+    "type": "OUT",
+    "quantity": 22,
+    "reason": "Sales Order",
+    "referenceId": "SO-004",
+    "timestamp": "2024-11-30T15:45:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 9,
+    "productId": 7,
+    "type": "OUT",
+    "quantity": 12,
+    "reason": "Damage Adjustment",
+    "referenceId": "ADJ-001",
+    "timestamp": "2024-12-01T10:00:00Z",
+    "userId": "admin"
+  },
+  {
+    "Id": 10,
+    "productId": 8,
+    "type": "OUT",
+    "quantity": 4,
+    "reason": "Stock Count Adjustment",
+    "referenceId": "COUNT-001",
+    "timestamp": "2024-12-02T16:30:00Z",
+    "userId": "admin"
+  }
+]

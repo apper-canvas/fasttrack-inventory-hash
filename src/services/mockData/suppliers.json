@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "name": "Health Supplements Direct",
+    "contactPerson": "Sarah Johnson",
+    "email": "sarah@healthsupplements.com",
+    "phone": "(555) 123-4567",
+    "address": "1234 Wellness Ave, Health City, HC 12345",
+    "paymentTerms": "Net 30"
+  },
+  {
+    "Id": 2,
+    "name": "Organic Tea Co.",
+    "contactPerson": "Michael Chen",
+    "email": "orders@organictea.com",
+    "phone": "(555) 234-5678",
+    "address": "567 Green St, Tea Town, TT 23456",
+    "paymentTerms": "Net 15"
+  },
+  {
+    "Id": 3,
+    "name": "Keto Kitchen Supplies",
+    "contactPerson": "Emma Rodriguez",
+    "email": "emma@ketokitchen.com",
+    "phone": "(555) 345-6789",
+    "address": "890 Low Carb Blvd, Keto City, KC 34567",
+    "paymentTerms": "2/10 Net 30"
+  },
+  {
+    "Id": 4,
+    "name": "Natural Wellness Products",
+    "contactPerson": "David Thompson",
+    "email": "david@naturalwellness.com",
+    "phone": "(555) 456-7890",
+    "address": "321 Organic Lane, Wellness Valley, WV 45678",
+    "paymentTerms": "Net 30"
+  },
+  {
+    "Id": 5,
+    "name": "Himalayan Imports",
+    "contactPerson": "Lisa Park",
+    "email": "lisa@himalayanimpors.com",
+    "phone": "(555) 567-8901",
+    "address": "654 Mountain View Dr, Salt Lake, SL 56789",
+    "paymentTerms": "Net 45"
+  }
+]

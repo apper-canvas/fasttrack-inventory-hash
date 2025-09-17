@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "poNumber": "PO-2024-001",
+    "supplierId": 1,
+    "items": [
+      {"productId": 1, "quantity": 100, "unitPrice": 12.50},
+      {"productId": 3, "quantity": 50, "unitPrice": 15.00}
+    ],
+    "totalAmount": 2000.00,
+    "status": "Received",
+    "orderDate": "2024-11-10",
+    "expectedDelivery": "2024-11-15"
+  },
+  {
+    "Id": 2,
+    "poNumber": "PO-2024-002",
+    "supplierId": 2,
+    "items": [
+      {"productId": 2, "quantity": 120, "unitPrice": 8.75},
+      {"productId": 5, "quantity": 80, "unitPrice": 6.25}
+    ],
+    "totalAmount": 1550.00,
+    "status": "Received",
+    "orderDate": "2024-11-12",
+    "expectedDelivery": "2024-11-18"
+  },
+  {
+    "Id": 3,
+    "poNumber": "PO-2024-003",
+    "supplierId": 3,
+    "items": [
+      {"productId": 4, "quantity": 60, "unitPrice": 18.50},
+      {"productId": 8, "quantity": 30, "unitPrice": 28.00}
+    ],
+    "totalAmount": 1950.00,
+    "status": "Pending",
+    "orderDate": "2024-12-01",
+    "expectedDelivery": "2024-12-08"
+  },
+  {
+    "Id": 4,
+    "poNumber": "PO-2024-004",
+    "supplierId": 1,
+    "items": [
+      {"productId": 6, "quantity": 40, "unitPrice": 22.00},
+      {"productId": 10, "quantity": 25, "unitPrice": 16.75}
+    ],
+    "totalAmount": 1298.75,
+    "status": "Ordered",
+    "orderDate": "2024-12-02",
+    "expectedDelivery": "2024-12-10"
+  }
+]

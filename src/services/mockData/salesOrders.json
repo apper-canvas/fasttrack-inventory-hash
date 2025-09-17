@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "orderNumber": "SO-2024-001",
+    "customerName": "Wellness Center Downtown",
+    "items": [
+      {"productId": 1, "quantity": 20, "unitPrice": 24.99},
+      {"productId": 3, "quantity": 15, "unitPrice": 29.99}
+    ],
+    "totalAmount": 949.65,
+    "status": "Fulfilled",
+    "orderDate": "2024-11-15",
+    "fulfillmentDate": "2024-11-20"
+  },
+  {
+    "Id": 2,
+    "orderNumber": "SO-2024-002",
+    "customerName": "Healthy Living Store",
+    "items": [
+      {"productId": 2, "quantity": 30, "unitPrice": 16.99},
+      {"productId": 5, "quantity": 25, "unitPrice": 12.99}
+    ],
+    "totalAmount": 834.45,
+    "status": "Fulfilled",
+    "orderDate": "2024-11-18",
+    "fulfillmentDate": "2024-11-25"
+  },
+  {
+    "Id": 3,
+    "orderNumber": "SO-2024-003",
+    "customerName": "Fitness First Nutrition",
+    "items": [
+      {"productId": 6, "quantity": 12, "unitPrice": 44.99},
+      {"productId": 10, "quantity": 8, "unitPrice": 32.99}
+    ],
+    "totalAmount": 803.8,
+    "status": "Processing",
+    "orderDate": "2024-12-01",
+    "fulfillmentDate": null
+  },
+  {
+    "Id": 4,
+    "orderNumber": "SO-2024-004",
+    "customerName": "Peak Performance Gym",
+    "items": [
+      {"productId": 4, "quantity": 18, "unitPrice": 34.99},
+      {"productId": 8, "quantity": 6, "unitPrice": 54.99}
+    ],
+    "totalAmount": 959.76,
+    "status": "Pending",
+    "orderDate": "2024-12-02",
+    "fulfillmentDate": null
+  },
+  {
+    "Id": 5,
+    "orderNumber": "SO-2024-005",
+    "customerName": "Natural Health Pharmacy",
+    "items": [
+      {"productId": 7, "quantity": 24, "unitPrice": 19.99},
+      {"productId": 9, "quantity": 15, "unitPrice": 8.99}
+    ],
+    "totalAmount": 614.61,
+    "status": "Shipped",
+    "orderDate": "2024-11-28",
+    "fulfillmentDate": "2024-12-01"
+  }
+]
